@@ -1,0 +1,2 @@
+D:\studies\webprog\obj\Any CPU\Debug\webprog.pyproj.SuggestedBindingRedirects.cache
+D:\studies\webprog\obj\Any CPU\Debug\webprog.pyproj.CoreCompileInputs.cache
